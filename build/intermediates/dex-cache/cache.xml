@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="461e4257888c25ec05abcd91e758fe7f4949230a">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.4.0_70e18e16c96e99b13e9e14c4654c20c44b1ba898/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4348dd26d83b56c2058b768222c3271bce911724">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.4.0_27fc25d9144b77a9e63e496a76978996950b4ac0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ajaychhabria/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_005a462e7a1b9ff09eaa2d4ceff6cadcaac763fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_922d89362d4a5efff363146bc3dcb6cfe770986b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_b3b773267c51b30d90eeb82d9878105756728c0e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_155990c25729c72c7b7c7dce9e95b46348934006/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ece40b09e9d4d488bc270cf6af5a9af73bc1cfa3">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.4.0_32ed8ba6e17eabcac895918795f825c52d162e4e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7475e1984bb1fff9a3cf164621fedce61eb3f16c">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_accdd04e3dd0767499b4c4df8b021df7c4fe38f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_57d1f04a028263737ed46597f510f47d2bfbf677/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="03829a2618892d438a1f59c6286699ca1f476e93">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-9.4.0_10c19a839b3f34186cd089910c206ee9cf195a08/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_ae2217535600e44960ad035c3313301cb4bc67f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_6f1dd951709463f9f3d20d3f3f2e59719615ee51/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.4.0_0e21d9d471a7a0ec848ac9d90d1cf21f9ea1711a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.4.0_d31f9cb17633a91f10ce405abc4aa0dcc81560e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7bc6ea2bcfd6de4b7085e0f3a01616c5c8e0e2ad">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.4.0_6a83df1e1fe7a113e8aa9b5e97d78e55186bc017/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_44fa588e0b9ad6ba73c6a1cafcb2ad975be53e2e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_f778c8a947ae646f92149b8957d1bf9df9122893/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8197651ce1af4d89b47f4545cc720bc4f8611e7d">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.4.0_c95855481030ec6cabc01ea43d02fed3387775d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.4.0_a234cc1461e0a6226369c6a02a54363d89013514/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="736d8893fb702f128a153c9d87c9c29724d37872">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.4.0_231e9c24e3bba0a18bd6da35348058a1d811ac63/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.4.0_176f93935c0f70d179ab70a4bd52bd8b2e06b359/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.4.0_96cfab272052d67b7e999736c5f895b43a4e28c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.4.0_59884555506cfc35d075572d1d7367d48e15ff34/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.4.0_2e2b6b87869696028ce1bfd3f85f18f762151336/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.4.0_40fab3d5a39f909083227117694f12668135185d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ba47b210d36301e237ccfea860eaada04590f12a">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.4.0_5abb06927a320b3488a27ae9e16f7551c85ec3ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_930f3811e2fbe4a1f5d5d1af772ec545ee9b65d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d49118ba67a101c4895f0581f17142cba85b330b">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.4.0_d5f717df3f54eff1b4e7906b2934a46ca71f6027/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="dd51b31890731591729f046d7a09c4fe4e483ed1">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.4.0_9731938838e7160517626e490784503e134e56e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.4.0_ce03e51cfd8272aa5b38a2075b0ce2c55d23b62a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-contextmanager/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="72eacac37fc64e95d53abd2a041bf81a952d8615">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-contextmanager-9.4.0_1c0118c0138ca14a97eb66d7d5a54b4268c49c02/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.4.0_18563353d8d7207551e45ff562dc78e0cccb993c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.4.0_ed813956f1e2092fd52cb00be8f10dcecfe437ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-9.4.0_a51a602798cb6fb79f0ddda3900965e29087e03c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.4.0_c7ce94dbfa5e16dd5ba2573f0cd16208ce4c8f7d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7ea53c4458b80e8ea71f7fd6831fa184c501377b">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.4.0_973561074948bb1c7b870786908981b890ad367f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.4.0_63df3e3e0a28f745e8a526a7d0e7b756d6fa167a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a432629397351d3ec7f27a23d258b229b81af08f">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.4.0_bb486eeae7688084a570f0d1249c29f41d7d8c8f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5e04c0b3683ca45b343284d93e5594b5f9044551">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.4.0_f069c8f5cd0685db5e6dfc51c9684c49fbcf81e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_cd5a01e174188f2e3d20c6fcf923368f5cb1007a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1e2c44779549cc2fdf7388157a47d102120e2f67">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c84380ec9f1cba451d3a755dc5b44248ce45d7a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-23.0.0_0cefba676b5afd5e33e660920dc0b247de1edcbd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9d48baf96c7e187991a9befa833bebd181960a9">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.4.0_d2f1c991cbbd344fd4d8fc97b91c0a011b274824/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_a9a4ba7acd693c3bd625772a6bfee22fb6dd23c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8ce5e7a4a146dddd1d9e66b09c714a6c149916d8">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.4.0_612ee95df6ef833c75b8f0ded15745df312bc273/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.4.0_0056ad9162ceb4865767669ef1b40157f5e1566a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b1acf13f1b7d8232af78a30833f9a966d1394c84">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.4.0_74a5c9abb72ff968bcf844b2b0121176db538932/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.4.0_258bb021dec8a51616359a61a4818e796a72837f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.4.0_a08839cc03198b20ecf79c1d06dd1bf0e280459b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.4.0_ced68778b09e905a7c53488edf5becc7a9b44cd5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_c197cd60d78539c36d8dc3efb7aac00c0cd78843/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_9ee5e1c7a5dbd1a8b0fb53336e36e6c024065eb4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.4.0_caa944c1713567d5830313517f43f0d2feb1443f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.4.0_5463f1f887e311ef4c7335710655c010af1f7639/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="954697ee6ea7bdd596babf4f70e8b7a17ca7649e">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.4.0_6a53c2421e607762163b413bbbcacc64960e9d4c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_551d1d6cb659aff2f5af76c4f3a4757c4bb597ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.4.0_7d6a341159445bfe4a163dad7955829a67fbe581/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.4.0_9729bb525cc6b957523ac5f2ed5ed4caeb8ef0a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_3e511970d8b08dc34be731ca898994c89e6d353f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.4.0_0bf0a5ddb2036e9ed1bb64497a61c6571200c6bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.4.0_282269b48d0006f627c1e4a194ae6b2c3999374b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e5e8e535d15834e824817bdf5370556f62b4b2a5">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.4.0_c3596f38829d05c67ad79ca13885052419d8f8c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e6e2251f3d3abf4eecd6bf6919d41fc7af497852">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.4.0_105d7863fff998f8f0e6d1e1bdb9dfdfe98cb68b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.4.0_a6a7898f212948fdf091580a531d78df8200a9d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.4.0_33b926c358e8101d86f017510bbb3c9a340b7a95/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="59a16a4a42d25b2c243dd1e8aea87d06895b4a06">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.4.0_7f734ef1cc8b24f2f101cd5673f922a2f31dcfe0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Anvita/Lab2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="dab6944860c986980dcc6002a5ca2f127b587317">
+        <dex dex="/Applications/Anvita/Lab2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.4.0_a7e125217ee0b7c0afc3c55705e9e217a725cd56/classes.dex" />
+    </item>
+
+</items>

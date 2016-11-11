@@ -1,0 +1,19 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=6F:99:C3:BD:9E:D3:47:A1:CB:F1:5F:58:2C:37:20:26:E2:76:D6:B7%3Bcom.example.anvita.lab2
+
+    You can also add your credentials to an existing key, using this line:
+    6F:99:C3:BD:9E:D3:47:A1:CB:F1:5F:58:2C:37:20:26:E2:76:D6:B7;com.example.anvita.lab2
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDisA3QdUCXiQ6EBM8Ih9jr2q-I6-r3bow</string>
+</resources>
